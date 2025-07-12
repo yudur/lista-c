@@ -32,7 +32,7 @@ int main()
   } else if (weight2 > weight1) {
     printf("\nA pessoa mais pesada e: %s", name2);
   } else {
-    printf("\nAs duas pessoas têm o mesmo peso.\n");
+    printf("\nAs duas pessoas tem o mesmo peso.\n");
   }
 
   // Check who is taller
@@ -41,7 +41,7 @@ int main()
   } else if (height2 > height1) {
     printf("A pessoa mais alta e: %s", name2);
   } else {
-    printf("As duas pessoas têm a mesma altura.\n");
+    printf("As duas pessoas tem a mesma altura.\n");
   }
 
   return 0;
